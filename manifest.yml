@@ -1,6 +1,5 @@
 ---
 applications:
 - buildpack: https://github.com/cloudfoundry/staticfile-buildpack
-  name: Puppy_IC
+  name: first_wokrPuco
   memory: 56M
-  random-route: true
